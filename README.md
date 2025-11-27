@@ -15,13 +15,15 @@ The bot is fully terminal-based, which ensures high compatibility with Linux, ma
 It’s lightweight, portable, and requires minimal dependencies to run. All configurations can be handled via a user-friendly .env file or direct command-line flags. 
 The DNS traffic patterns can be randomized or fixed, allowing flexibility for stealth mode simulations or predictable load testing.
 
-How to Install
-
+## How to Install
+```bash
 git clone https://github.com/Iankulani/accurate-dns-traffic-generator-terminal-bot.git
 
 cd accurate-dns-traffic-generator-terminal-bot
+```
 
-**How to run**
+## How to run
+```bash
 
 python3 accurate-dns-traffic-generator-terminal-bot.py  
-
+```
